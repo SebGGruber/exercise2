@@ -1,9 +1,7 @@
 
 printer(name, eyecolor, favorite.meal) {
-<<<<<<< HEAD
+  
   #name = "HANSFRITZ"
-=======
->>>>>>> dev
 
   #eyecolor = "blue"
 
