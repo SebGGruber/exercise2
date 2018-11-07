@@ -1,7 +1,10 @@
-name = "Sebastian Gruber"
 
-eyecolor = "blue"
+printer(name, eyecolor, favorite.meal) {
+  #name = "Sebastian Gruber"
 
-meal = "Schnitzel"
+  #eyecolor = "blue"
 
-print(paste0(name, " has ", eyecolor, " eyes and enjoys eating ", meal, " the most!"))
+  #meal = "Schnitzel"
+
+  print(paste0(name, " has ", eyecolor, " eyes and enjoys eating ", favorite.meal, " the most!"))
+}
