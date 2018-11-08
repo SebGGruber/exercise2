@@ -1,4 +1,4 @@
-  
+    
 printer(name, eyecolor, favorite.meal) {
   #name = "FRITZ"
 
